@@ -13,8 +13,10 @@ A simple HTML web page displaying my basic information as an AltSchool Engineeri
 
 ## File Structure
 alt-school-profile/
-├── index.html # Main HTML file
-└── README.md # This documentation file
+ --- index.html # Main HTML file
+ --- media.html # Media Files
+ --- table.html # Programs at Altschool Africa
+ README.md # This documentation file
 
 
 ## How to View the Project
